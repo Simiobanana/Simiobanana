@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]  
 
-<!--
-**Simiobanana/Simiobanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer passionate about creating innovative and scalable solutions. Currently, I work with technologies like Unity, Unreal Engine, Docker, and Vue.js.  
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills  
+- **Programming Languages:** C#, Python, JavaScript, PHP  
+- **Game Engines:** Unity (2D/3D/VR), Unreal Engine 5, UEFN  
+- **Design and Modeling:** Blender  
+- **Development Tools:** Docker, Anaconda  
+- **Frameworks:** Vue.js, Laravel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Featured Projects  
+- **[Project Name](link):** Brief description (technologies used, impact).  
+- **Heroes: Two Faces:** Development of a 3D game with a unique skill system.  
+
+## 📫 How to Reach Me  
+- **Email:** youremail@example.com  
+- **LinkedIn:** [linkedin.com/in/your-profile](link)  
+- **Portfolio:** [yourportfolio.com](link)  
