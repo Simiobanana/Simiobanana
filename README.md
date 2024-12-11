@@ -1,6 +1,6 @@
 ![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)  
 
-# 👋 Hi, I'm [Your Name]  
+                        # 👋 Hi, I'm Alejandro Urvieta  
 
 🎮 **Game Developer** | 🌟 **Creative Programmer** | 💻 **Software Developer**
 
@@ -55,7 +55,7 @@ Creating games and tools that educate, inspire, and entertain.
 ## 📫 Let's Connect!  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alejandro-urvieta-gonzalez-a21aa1305/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
 
 ---
