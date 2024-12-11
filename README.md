@@ -1,6 +1,6 @@
 ![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)  
 
-                        # 👋 Hi, I'm Alejandro Urvieta  
+# 👋 Hi, I'm Alejandro Urvieta  
 
 🎮 **Game Developer** | 🌟 **Creative Programmer** | 💻 **Software Developer**
 
