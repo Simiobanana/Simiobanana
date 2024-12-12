@@ -35,9 +35,9 @@ I specialize in building immersive experiences, scalable systems, and interactiv
 
 ## 🚀 Featured Projects  
 
-| ![Project Thumbnail](https://via.placeholder.com/200x150.png?text=Project+1) | ![Project Thumbnail](https://via.placeholder.com/200x150.png?text=Project+2) |  
+| <img src="https://i.imgur.com/5aHszwx.jpg" alt="Project Thumbnail" width="400"> | ![Project Thumbnail](https://via.placeholder.com/200x150.png?text=Project+2) |  
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|  
-| **[Heroes: Two Faces](link)**: A 3D action game with unique skill systems.  | **[VR House Visualizer](link)**: Real-time visualization of architectural models. |  
+| **Heroes: Two Faces**: A first 2D action game with basic systems to mana,life and enemies.  | **Cazadores de automatas**: VR shooter videogame with different weapon types, point system, 3 levels, perfect to aim practice. |  
 
 ---
 
