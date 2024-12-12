@@ -37,7 +37,7 @@ I specialize in building immersive experiences, scalable systems, and interactiv
 
 | <img src="https://i.imgur.com/5aHszwx.jpg" alt="Project Thumbnail" width="400"> | ![Project Thumbnail](https://via.placeholder.com/200x150.png?text=Project+2) |  
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|  
-| **Heroes: Two Faces**: A first 2D action game with basic systems to mana,life and enemies.  | **Cazadores de automatas**: VR shooter videogame with different weapon types, point system, 3 levels, perfect to aim practice. |  
+| **Heroes: Two Faces**: My first 2D action game with basic systems to mana,life and enemies.  | **Cazadores de automatas**: VR shooter videogame with different weapon types, point system, 3 levels, perfect to aim practice. |  
 
 ---
 
