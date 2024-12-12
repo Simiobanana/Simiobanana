@@ -35,8 +35,7 @@ I specialize in building immersive experiences, scalable systems, and interactiv
 
 ## 🚀 Featured Projects  
 
-<img src="[Captura de pantalla 2024-12-12 000212](https://github.com/user-attachments/assets/bd2ce58e-708b-4aee-a346-fcc3dac52c26)" width="200" height="150">
-| | ![Project Thumbnail](https://via.placeholder.com/200x150.png?text=Project+2) |  
+| ![Project Thumbnail](https://via.placeholder.com/200x150.png?text=Project+1) | ![Project Thumbnail](https://via.placeholder.com/200x150.png?text=Project+2) |  
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|  
 | **[Heroes: Two Faces](link)**: A 3D action game with unique skill systems.  | **[VR House Visualizer](link)**: Real-time visualization of architectural models. |  
 
