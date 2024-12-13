@@ -1,8 +1,8 @@
-![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)  
+![Header](https://imgur.com/eByzvKi.jpg)  
 
 # 👋 Hi, I'm Alejandro Urvieta  
 
-🎮 **Game Developer** | 🌟 **Creative Programmer** | 💻 **Software Developer**
+🎮 **Game Developer** | 🌟 **Creative Programmer** | 💻 **Software Developer** | **Enviroment Designer**
 
 I specialize in building immersive experiences, scalable systems, and interactive designs in both 2D and 3D environments.  
 
