@@ -56,7 +56,7 @@ Creating games and tools that educate, inspire, and entertain.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-urvieta-gonzalez)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://www.notion.so/VideoGames-Portfolio-1e58fb1b4cfc80879952d7da2940e4e2?pvs=4)  
 
 ---
 
